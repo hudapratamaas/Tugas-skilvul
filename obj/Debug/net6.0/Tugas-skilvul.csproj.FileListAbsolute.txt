@@ -1,0 +1,15 @@
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\bin\Debug\net6.0\Tugas-skilvul.exe
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\bin\Debug\net6.0\Tugas-skilvul.deps.json
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\bin\Debug\net6.0\Tugas-skilvul.runtimeconfig.json
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\bin\Debug\net6.0\Tugas-skilvul.dll
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\bin\Debug\net6.0\Tugas-skilvul.pdb
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.csproj.AssemblyReference.cache
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.AssemblyInfoInputs.cache
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.AssemblyInfo.cs
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.dll
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\refint\Tugas-skilvul.dll
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.pdb
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\Tugas-skilvul.genruntimeconfig.cache
+C:\xampp\htdocs\kalkulator\Tugas-skilvul\obj\Debug\net6.0\ref\Tugas-skilvul.dll
